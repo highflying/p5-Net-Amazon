@@ -30,6 +30,7 @@ sub new {
     push @{$self->{_options}}, 'OfficeProducts';
     push @{$self->{_options}}, 'Software';
     push @{$self->{_options}}, 'SoftwareVideoGames';
+    push @{$self->{_options}}, 'Toys';
     push @{$self->{_options}}, 'VHS';
     push @{$self->{_options}}, 'Video';
     push @{$self->{_options}}, 'VideoGames';

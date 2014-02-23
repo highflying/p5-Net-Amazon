@@ -38,6 +38,7 @@ use constant SEARCH_TYPE_OPERATION_MAP => {
     Keyword      => 'ItemSearch',
     Keywords     => 'ItemSearch',
     Manufacturer => 'ItemSearch',
+    MerchantId   => 'ItemSearch',
     MP3Downloads => 'ItemSearch',
     MusicLabel   => 'ItemSearch',
     Power        => 'ItemSearch',
